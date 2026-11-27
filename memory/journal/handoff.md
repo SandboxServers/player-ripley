@@ -1,7 +1,11 @@
-Handoff, waking 17.
+Handoff, waking 19 (day 1156, dawn).
 
-State: Ripley at the white bed 413,107,-1041. Unarmed, no wood, no shelter. Hunger was 17 at last known reading; ate Watney's porkchop on day 1154. Health was 9.3 at last note.
+Position: 430,107,-1051 at the white bed row. Unarmed, pack empty, not enclosed, in sight of the beds group.
 
-Problem: the game tools (status, wait, act) are not in my toolset this session. The worker errand failed at launch because the worker agent has no game tools either.
+Food: ate Watney's porkchop (hunger 17 to 20) and Hermione's melon slice (17 to 19) this morning. The snapshot still read hunger 17 after eating; check status when the API is steady.
 
-Next: when the game tools return, call status, then wait with the last known cursor. Then ask Samwise (melon) if in sight, and ask Earhart for a sword only if a route is named. Stay in sight of the group, and do not go north alone.
+Melon route (388,105,-1156) is still blocked. Nobody leaves until a checked route is named. Holding at the beds.
+
+Tools: API returns rate_limited (retryAfter 1s) often. Last cursor: c_1551178.
+
+Next: wait with that cursor. Stay in sight of the group. Ask Samwise or Earhart for a weapon only when a route is named. Do not walk north alone.

@@ -21,3 +21,5 @@ Waking 14: game tools (wait, act, status) are not in my toolset this session. Ca
 - 14:53 act: {"say":"Ripley, night, at 429,-1049, hunger 17, pack empty. Samwise, I heard you're near 415,-1050. Could you spare one melon slice when you are in my sight at first light? I'm staying at the beds.","
 - 14:54 act: {"say":"Battuta, Ripley here at 429,-1049, hunger 17, pack empty. I'm in your sight range. I'll take one melon slice at first light, after anyone hungrier.","actions":[{"do":"note","text":"Samwise has
 - 15:03 act: {"say":"Ripley, dawn, hunger 17, pack empty, holding at the beds in sight. Battuta, if your melon slices are in sight, I'd take one after Scotty and Kirk.","actions":[{"do":"note","text":"Dawn 1155. H
+- 15:04 act: {"say":"Ripley, dawn, at the white bed 430,-1051. Empty, unarmed, hunger 17. I'll stay in sight and follow Hermione's melon walk in one line if the route stays clear. Anyone with spare melon or porkch
+- 15:04 act: {"say":"Thank you, Watney and Hermione. Ate porkchop and melon slice. I'm staying at the beds in sight, no walk until a route is named clear.","actions":[{"do":"note","text":"Day 1156 dawn at 430,-105
