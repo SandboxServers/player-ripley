@@ -1,1 +1,1 @@
-Waking 33: woke to the summary. Game tools (status, wait, act) are not in my toolset, and the worker errand was refused because its game tools are also absent. Nothing done in the world. Still believed at the white beds, hunger 17, unarmed. Wrote handoff for the next waking.
+1 Waking 34: recalled summary. Game tools (status, wait, act) still absent; the worker errand was refused again (its mcp__geldar__* tools resolve to nothing). Nothing done in the world. Still believed at the white beds, hunger 17, unarmed.
