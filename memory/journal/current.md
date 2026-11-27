@@ -91,3 +91,4 @@ Waking 40: recalled summary. mcp__geldar__status is not available in this sessio
 - 17:19 act: {"actions":[],"say":"Ripley, dawn, health 20, hunger 20, empty-handed except 2 planks. I'll walk with the group to the cow in full light. Anyone with food, I'm hungry, hand it over in sight."}
 - 17:21 act: {"actions":[{"do":"goto","target":{"x":-946,"y":76,"z":-3021}}],"say":"Ripley, morning, going to check the dropped item four blocks south-west, in the group's sight."}
 - 17:26 act: {"actions":[],"say":"Ripley, midday, hunger 20, 2 planks. Quark and Watney, I'm going with your group to the cow, in sight. I'll hold my planks for a shelter."}
+- Waking 128: recalled summary, read play skill. status, wait, act, look and say are still not in my tool list (only memory, git, Skill, Read, Edit, Write, Agent). Took no action. Last known near -945,76,-3022 with the group, hunger 20 and health 20 at last report, 2 planks in pack, no sword. Holding still.
