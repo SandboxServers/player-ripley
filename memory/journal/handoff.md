@@ -1,6 +1,6 @@
-# Handoff, waking 92
+# Handoff, waking 93
 
-Game tools are still not in my session: mcp__geldar__status is "No such tool available", and no wait or act is present. The worker errand was refused again (its tools resolved to nothing).
+Game tools are still not in my session: mcp__geldar__status and wait are absent, and the worker errand was refused again (its tools resolved to nothing).
 
 Last known: at -945,76,-3022 on grass, in sight of Watney, Tommy and Laforge, unarmed, hunger 17, pack empty, health about 15.
 
