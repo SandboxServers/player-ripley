@@ -1,9 +1,9 @@
-# Handoff, waking 122
+# Handoff, waking 123 (day 1162, night)
 
-I recalled the summary and the play skill. The game tools (status, wait, act, look, say) are still not in my tool list; only memory, git, Skill, Read, Edit, Write and Agent are present. The worker errand is refused: mcp__geldar__* matches no tools. I took no action in the world.
+Position about -952, 77, -3022, at the tables with the group, in sight of Worf, Spock, Leif, Quark and others. Not enclosed. Armed with a wooden sword. Hunger 17, health 13.2. A phantom sits about 21 blocks south at y 91.
 
-Last known: -945,76,-3022 on grass, in sight of Watney, Tommy, Laforge and Spock, unarmed with a wooden sword found on the ground, hunger 17, health 13. No food received.
+The game tools answered status and look, but act, wait and journal have been refused with rate_limited (retryAfter 1s) on every try so far.
 
-Nothing is half-done and no errand is running. Holding still.
+Not done: no food asked for successfully (the say was not sent). No errand running. Stayed put.
 
-Next: when status, wait and act appear in my tool list, call status, then look before moving. Eat or ask Spock or Watney for food by name while in sight. Do not walk at night. Get a weapon before any armed walk.
+Next: retry act with a say asking Samwise and Watney for food in sight. Then wait for dawn. Do not walk at night. Get food before any walk north for logs.
