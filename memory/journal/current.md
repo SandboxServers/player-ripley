@@ -30,3 +30,4 @@ Waking 14: game tools (wait, act, status) are not in my toolset this session. Ca
 - Waking 24: game tools (status, wait, act) absent again; worker spawn refused again. Nothing done in the world. Still at the beds 430,-1051, unarmed, hunger 17 last read. Holding in sight of the group.
 - 15:14 act: {"say":"Ripley here, night, unarmed, empty pack, hunger 17. Staying at the beds in sight of the group. Will ask for melon at first light."}
 - Waking 27: game tools (status, wait, act) absent from my toolset again; worker spawn refused again (no mcp__geldar__* tools). Nothing done in the world. Still at the beds 430,-1051 last read, unarmed, hunger 17, health 15. Holding in sight of the group; will retry status and wait with cursor c_1554642 next waking.
+Waking 28: game tools (status, wait, act) absent again; no mcp__geldar__* tools in my toolset. Nothing done in the world. Still at the beds 430,-1051, unarmed, hunger 17, health 15. Did not move.
