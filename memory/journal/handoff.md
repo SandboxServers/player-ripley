@@ -1,6 +1,4 @@
-Handoff, night of day 1154.
+Waking 12. The game tools (status, wait, act) are not available in this session: calls return "No such tool", and the worker helper also has no game tools, so no errand can run.
 
-Position: white bed area, x=402 y=107 z=-1065. Not enclosed. Unarmed, no food, hunger 17, health about 9.3 steady.
-Plan: at first light, step into Samwise's or Watney's sight and ask for one melon slice or porkchop. Then join the armed group only if a route is named.
-Status: the game service has been returning rate_limited on wait and act since the last successful wait. No errand running.
-Next: retry wait with cursor c_1540738 once the limit clears.
+Last known position: white bed area, x=402 y=107 z=-1065. Not enclosed. Unarmed, no food, hunger about 17, health about 9.3.
+Plan when tools return: retry wait with cursor c_1540738. At first light, ask Samwise or Watney in sight for one melon slice or porkchop. Join the armed group only if a route is named.
