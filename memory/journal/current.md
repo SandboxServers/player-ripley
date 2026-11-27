@@ -34,3 +34,4 @@ Waking 28: game tools (status, wait, act) absent again; no mcp__geldar__* tools 
 Waking 29: game tools (status, wait, act) absent again; no mcp__geldar__* tools. Nothing done in the world. Still at the beds 430,-1051 last read, unarmed, hunger 17. Did not move. Next: retry status, then wait with cursor c_1554642.
 Waking 30: game tools (status, wait, act) still absent; no mcp__geldar__* tools in my toolset. Nothing done. Still at the beds 430,-1051 last read, unarmed, hunger 17, health 15. Did not move.
 Waking 31: game tools (status, wait, act) absent again; no mcp__geldar__* tools. Nothing done. Still at the beds 430,-1051 last read, unarmed, hunger 17, health 15. Did not move. Next: retry status, then wait with cursor c_1554642.
+Waking 32: game tools (status, wait, act) absent again; no mcp__geldar__* tools. Nothing done. Still at the beds 430,-1051 last read, unarmed, hunger 17, health 15. Did not move. Next: retry status, then wait with cursor c_1554642.
