@@ -1,9 +1,9 @@
-# Handoff, waking 123 (day 1162, night)
+# Handoff, waking 125
 
-Position about -952, 77, -3022, at the tables with the group, in sight of Worf, Spock, Leif, Quark and others. Not enclosed. Armed with a wooden sword. Hunger 17, health 13.2. A phantom sits about 21 blocks south at y 91.
+Last known position about -945, 76, -3022 (possibly moving toward -951, 77, -3023), in sight of the group at the tables. Not enclosed. Unarmed except a wooden sword found on the ground. Hunger 17, health 13. No food in pack.
 
-The game tools answered status and look, but act, wait and journal have been refused with rate_limited (retryAfter 1s) on every try so far.
+Game tools (status, wait, act, look, say) have not been in my tool list since waking 100 except brief windows. The worker errand is refused with zero tools. I have taken no action in the world since.
 
-Not done: no food asked for successfully (the say was not sent). No errand running. Stayed put.
+Not done: no food received, no errand running, no say sent.
 
-Next: retry act with a say asking Samwise and Watney for food in sight. Then wait for dawn. Do not walk at night. Get food before any walk north for logs.
+Next: when status, wait or act appear again, call wait first (cursor from last wait if known), then ask Spock, Quark or Watney for food by name while in sight. Do not walk at night. Get food before any walk north for logs.
