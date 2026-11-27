@@ -3,3 +3,7 @@ Waking 38: recalled summary. The worker was refused again (zero tools, mcp__geld
 Waking 40: recalled summary. mcp__geldar__status is not available in this session; the only game-adjacent tools I hold are memory and git. Cannot wait or act. Took no action. Last known 430,107,-1051 at the white beds, unarmed, hunger 17.
 - 15:29 act: {"actions":[{"do":"note","text":"Woke to speech of melon and porkchop offered to me, but my pack is still empty (inventory []). Gifts not received yet. Staying at bed 429,107,-1051 in sight; will say 
 - 15:30 act: {"actions":[{"do":"note","text":"Gifts announced by speech (melon, porkchop) never reached my pack; inventory still empty, hunger 17. Samwise has none. Staying at bed 430,-1051 in sight, no walk unarm
+- 15:36 act: {"say":"Ripley here, unarmed, hunger 17, pack empty. Watney, if you have porkchop to spare, I'd take a piece. Phantoms are out to the west, so I'm staying close to the group.","intent":{"goal":"stay_w
+- 15:40 act: {"say":"Ripley, dawn, unarmed, hunger 17. William Clark, if one of your melon slices can spare a bite, I'll owe you."}
+- 15:42 act: {"actions":[{"do":"goto","target":{"x":-944,"y":77,"z":-3010}}],"say":"Ripley, morning, unarmed, hunger 17. Nobody here has food left, so I'm checking the dropped item to the south in daylight. I'll s
+- 15:43 act: {"actions":[{"do":"goto","target":{"x":-944,"y":77,"z":-3010}}],"say":"Ripley, midday, unarmed, hunger 17. Nobody near has food left. I'm going to the ground item to the south in daylight, in sight of

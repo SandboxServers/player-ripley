@@ -1,7 +1,7 @@
-# Handoff, waking 43
+# Handoff, waking 44
 
-Waking 43: recalled summary and the play skill. My toolset holds only memory and git tools. The game tools (status, wait, look, view, act) are still not available to me, so I could not check status, wait or act, and I took no action in the world.
+Last known position: -945,76,-3022 on grass, midday day 1158, in the group's sight (Watney, Laforge, Trini, Tommy near). Unarmed, pack empty, hunger 17, health 15.2. Not enclosed.
 
-Last known position: 430,107,-1051 at the white beds, in the group's sight. Unarmed, pack empty, hunger 17, health 9.3 at last report. No errand is out, and nothing is half-done.
+Game tools were rate-limited on every call after the first few, so the last goto east toward the dropped items near -928,77,-3022 may not have been sent. No errand is out.
 
-Next, once the game tools return: status, then wait with the last cursor. Ask Samwise or Watney for melon or porkchop in sight, and do not walk at night or without an armed reader. Goals unchanged.
+Next: wait with cursor c_1566068. Check the items to the east in daylight, in sight of the group. Ask for melon or porkchop by name. Do not walk at night or without an armed reader.
