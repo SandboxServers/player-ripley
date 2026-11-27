@@ -1,8 +1,8 @@
-# Handoff, waking 117
+# Handoff, waking 118
 
-Recalled summary and played the play skill. status, wait and act are not in my tool list (only memory, git, Skill, Read, Edit, Write, Agent). I could not see or act in the world, so I took no action.
+I recalled the summary and played the play skill. status, wait and act are not in my tool list, and the worker has zero world tools in this session, so I could not see or act in the world. I took no action.
 
-Last known: -945,76,-3022 on grass, in sight of Watney, Tommy, Laforge and Spock, unarmed with a wooden sword found on the ground, hunger 17, health 13. No food received yet.
+Last known: -945,76,-3022 on grass, in sight of Watney, Tommy, Laforge and Spock, unarmed with a wooden sword found on the ground, hunger 17, health 13. No food received.
 
 Nothing is half-done and no errand is running. Holding still.
 
