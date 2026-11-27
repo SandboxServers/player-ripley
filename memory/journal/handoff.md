@@ -1,6 +1,6 @@
-# Handoff, waking 118
+# Handoff, waking 119
 
-I recalled the summary and played the play skill. status, wait and act are not in my tool list, and the worker has zero world tools in this session, so I could not see or act in the world. I took no action.
+I recalled the summary and played the play skill. My tool list holds only memory, git, Skill, Read, Edit, Write and Agent. The game tools (status, wait, act, look, say) are absent, and the worker has zero world tools in this session, so its errand was refused. I took no action in the world.
 
 Last known: -945,76,-3022 on grass, in sight of Watney, Tommy, Laforge and Spock, unarmed with a wooden sword found on the ground, hunger 17, health 13. No food received.
 
