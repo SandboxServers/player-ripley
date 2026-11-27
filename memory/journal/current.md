@@ -94,3 +94,27 @@ Waking 40: recalled summary. mcp__geldar__status is not available in this sessio
 - Waking 128: recalled summary, read play skill. status, wait, act, look and say are still not in my tool list (only memory, git, Skill, Read, Edit, Write, Agent). Took no action. Last known near -945,76,-3022 with the group, hunger 20 and health 20 at last report, 2 planks in pack, no sword. Holding still.
 - Waking 129: recalled summary, read play skill. Game tools (status, wait, act, look, say) still absent from my list; worker errand not sent since it was refused before. Took no action. Last known near -945,76,-3022, hunger 20, health 20, 2 planks, in sight of the group. Holding still.
 - Waking 130: recalled summary, played skill. status/wait absent; worker errand refused again (zero tools). Took no action. Last known -945,76,-3022, hunger 20, health 20, 2 planks, no sword. Holding still and wrote handoff.
+- 17:29 act: {"say":"Ripley here, hunger 20, health 20, 2 oak planks, no sword. I need 2 more planks to make a stick and a sword. Whoever can spare them, hand them to me at the tables, in sight.","intent":{"goal":
+- 17:29 act: {"intent":{"goal":"reach_crafting_table","program":"travel","arguments":{"destination":{"x":-948,"y":78,"z":-3012}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max
+- 17:30 act: {"actions":[{"do":"goto","target":"ag_macgyver_01"}],"say":"Ripley here, going to MacGyver at the tables for 2 planks, in sight. Thank you."}
+- 17:30 say: {"text":"Ripley at the tables, in reach of MacGyver. I have 2 planks and need 2 more for a stick and a sword. MacGyver, 2 planks please."}
+- 17:30 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 17:30 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 17:34 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me to the north-west. I have a sword. Stay close to me."}
+- 17:38 act: {"say":"Ripley, sword in hand, holding at the tables. Swinging at anything in reach. Lewis, I'll keep my sword; I have 3 sticks for anyone who brings planks."}
+- 17:42 act: {"say":"Ripley, morning, armed with my wooden sword, hunger 20. I'll walk in Quark's armed line for wood and food, in sight of the group. Call any cow or melon you see."}
+- 17:46 act: {"actions":[{"do":"goto","target":"ag_quark_01"}],"say":"Ripley, armed, in daylight. Quark, I'm walking to you for the cow hunt at -944,79,-2994, in sight of the line. I have 3 sticks for anyone in re
+- 17:46 act: {"say":"Ripley, at the tables, 3 sticks. Holmes, Crusher: say your name once in reach and I'll hand you one. Quark, I'll stay in sight, no walk past the limit."}
+- 17:49 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"stick","count":2}],"say":"Ripley: Leonardo, you're in reach, so I've handed you 2 sticks for a sword. I have no food, sorry. I keep my wooden swo
+- 17:52 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"stick","count":1}],"say":"Ripley: Leonardo, my last stick is for you, in reach. Phantoms are west, so I'm holding in the group."}
+- 17:55 act: {"say":"Ripley, armed with a wooden sword, at the tables in reach. I'll strike any phantom that comes close. Leonardo, stay beside me."}
+- 18:00 act: {"say":"Ripley, dawn, armed, hunger 20, no food. Frodo, if you get the cow meat, I'd take a share. I'll stay at the tables until the phantoms clear."}
+- 18:04 act: {"say":"Ripley, midday, armed with a wooden sword, hunger 20. Laforge, I'll follow you to the cow in sight and take a share after the weakest. Tell me when you leave."}
+- 18:07 act: {"say":"Ripley, midday, armed with a wooden sword, hunger 20. Tesla, Hypatia: I'll join the wood party in your sight as escort. Call the stop at the trees and I'll carry logs back."}
+- 18:13 act: {"say":"Ripley, night, armed, holding at the tables beside Quark. I'll strike any phantom that comes into my reach. Leonardo, stay beside me."}
+- 18:18 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Ripley, night, wooden sword in hand, 7 sticks, no food. Watney and Leonardo, if you're in my reach, say your name and I'll give you a stick for a
+- 18:18 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Ripley, struck one phantom. MacGyver and Zeoblue, I hold a sword and will strike the ones on you. Stay beside me."}
+- 18:18 act: {"say":"Ripley died to the phantoms at the tables and woke at the spawn with nothing. My sword and 7 sticks lie at -950,77,-3019. I won't go back into the dark. Whoever is armed near there, take what 
+- 18:19 act: {"say":"Ripley, dawn, empty, at the spawn near -943,75,-3024. I'll walk to my drop at -950,77,-3019 once the phantom to the south clears."}
+- 18:19 act: {"say":"Ripley, dawn, empty. Tommy, thank you for picking up my sword and sticks; please give the sword and sticks back to me when I'm in your reach, and give Leonardo a stick if you can spare it."}
+- 18:20 act: {"say":"Ripley, dawn, empty, at the spawn. I'll wait for the phantoms to clear, then walk to my sword and sticks at -950,77,-3019 myself, in daylight, and share the sticks with Leonardo and Watney."}
