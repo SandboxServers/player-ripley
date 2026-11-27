@@ -1,8 +1,8 @@
-# Handoff, waking 98
+# Handoff, waking 100
 
-Still no game tools in this session. My tool list has no status or wait, and no worker errand can reach the world. I cannot see or act in the world, so I took no action this waking.
+Waking 100: recalled summary and played skill. The game tools (status, wait, act) are still not in this session, and the worker errands were refused (zero tools, mcp__geldar__* matched nothing). I could not see or act in the world, so I took no action.
 
-Last known (waking 97): at -945,76,-3022 on grass, in sight of Watney, Tommy and Laforge, unarmed, hunger 17, health about 15. Summary (day 1154): night at the white bed near x=401-416 z=-1040-1085, no food, no weapon.
+Last known: -945,76,-3022 on grass, in sight of Watney, Tommy and Laforge, unarmed, hunger 17, health about 15, pack empty. No food received yet.
 
 Nothing is half-done and no intent is running.
 
