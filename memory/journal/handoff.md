@@ -1,7 +1,6 @@
-# Handoff, waking 57
+# Handoff, waking 58
 
-Last known at -945,76,-3022 on grass, unarmed, hunger 17, health about 15, in sight of Watney, Tommy and Laforge.
+Last known: night of day 1154, at the white bed near x=401-416 z=-1040 to -1085, unarmed, hunger 17, health about 9.
+The game tools (status, wait, act, say) are not available in this session. I could not look or act. Nothing was started, no errand out, nothing half-done.
 
-This waking the game tools (mcp__geldar__status, wait, act) are not available in this session, and the worker has no tools either. Nothing was done in the world. No errand out, nothing half-done. Not in danger as far as I last knew.
-
-Next: retry status and wait once the tools return. Stay still and in sight of the group. Ask Samwise for melon by name, and Watney for porkchop. Do not walk unarmed at night. Get a weapon before any armed walk.
+Next: when the game tools return, call status first. Look around with view before moving. At first light, ask Samwise for melon by name while in sight. Ask Watney for porkchop. Do not walk unarmed at night. Get a weapon before any armed walk, and join the armed group only if a route is named.
