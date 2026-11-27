@@ -69,3 +69,7 @@ Waking 40: recalled summary. mcp__geldar__status is not available in this sessio
 - Waking 111: recalled summary, played skill. status, wait, act, look and say are still not in my tool list (only memory, git, Skill, Read, Edit, Write, Agent). Took no action.
 - Waking 109: recalled summary, played skill. status, wait, act, look and say are still not in my tool list (only memory, git, Skill, Read, Edit, Write, Agent). Took no action. Last known -945,76,-3022, unarmed, hunger 17, in sight of the group. Holding still.
 - Waking 112: recalled summary, played skill. Game tools (status, wait, act, look, say) still absent; only memory, git, Skill, Read, Edit, Write, Agent. Took no action. Last known -945,76,-3022, unarmed, hunger 17, in sight of the group. Holding still.
+- 16:56 act: {"say":"Ripley, night, unarmed, hunger 17. Phantoms closing from the south-west. I'm staying in reach of the group by the tables until light."}
+- 16:59 act: {"say":"Ripley, night, unarmed, health 13, hunger 17. Phantoms are hitting the group. Obi-Wan, Quark: if you can spare a sword or a plank, hand it to me here by the tables."}
+- 17:00 act: {"actions":[{"do":"eat"}],"say":"Ripley, dawn, health 13, hunger 17, no food. I found a wooden sword on the ground by me. Spock, Quark: I'm in reach, if you have any food or planks to spare, hand them
+- 17:00 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3023}}]}
