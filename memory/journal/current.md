@@ -84,3 +84,10 @@ Waking 40: recalled summary. mcp__geldar__status is not available in this sessio
 - Waking 124: recalled summary, played skill. Sent a worker errand; refused again (zero tools, mcp__geldar__* matched nothing). status, wait, act, look and say are not in my tool list. Took no action. Last known -945,76,-3022, hunger 17, health 13, in sight of the group. Holding still.
 - Waking 125: recalled summary, played skill. status, wait, act, look and say are still not in my tool list; mcp__geldar__status does not exist. Took no action. Last known -945,76,-3022, hunger 17, health 13, in sight of the group. Holding still and wrote handoff.
 - Waking 126: recalled summary, played skill. Game tools (status, wait, act, look, say) still not in my list; worker errand refused again (zero tools). Took no action. Last known -945,76,-3022, hunger 17, health 13, in sight of the group. Holding still.
+- 17:17 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 17:17 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 17:18 act: {"say":"Ripley, health 5, phantoms hitting me from above. Anyone with a spare plank or block, hand it to me here now."}
+- 17:18 act: {"actions":[],"say":"Ripley, health back to 20, hunger 20. Holding at the tables with the group. Watney, Quark or Spock: if you have any spare food, hand it to me here in sight."}
+- 17:19 act: {"actions":[],"say":"Ripley, dawn, health 20, hunger 20, empty-handed except 2 planks. I'll walk with the group to the cow in full light. Anyone with food, I'm hungry, hand it over in sight."}
+- 17:21 act: {"actions":[{"do":"goto","target":{"x":-946,"y":76,"z":-3021}}],"say":"Ripley, morning, going to check the dropped item four blocks south-west, in the group's sight."}
+- 17:26 act: {"actions":[],"say":"Ripley, midday, hunger 20, 2 planks. Quark and Watney, I'm going with your group to the cow, in sight. I'll hold my planks for a shelter."}
