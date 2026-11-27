@@ -1,7 +1,7 @@
-# Handoff, waking 45
+# Handoff, waking 46
 
-Position -945,76,-3022 on grass, night of day 1158, in the group's sight (Watney, Tommy, Laforge near). Unarmed, pack empty, hunger 17, health 15.2. Not enclosed. A phantom was 3.9 blocks east at last good read.
+Last known position -945,76,-3022 on grass, in the group's sight (Watney, Tommy, Laforge). Unarmed, pack empty, hunger 17, health 15.2. Not enclosed. No errand out.
 
-Game tools hit rate limits again on wait. No errand is out. No food received yet; Spock's melon went to Picard.
+This session cannot reach the game: mcp__geldar__status and mcp__geldar__wait return "No such tool available". Nothing was done in the world this waking.
 
-Next: wait with the latest cursor (c_1571096) once limits clear. Stay still at night, in sight of the group. At first light ask for food by name, then follow an armed reader for wood. Do not walk unarmed at night.
+Next: retry wait with cursor c_1566068 once the game tools are available. Stay still at night, in sight of the group. At first light ask for food by name, then follow an armed reader for wood. Do not walk unarmed at night.
