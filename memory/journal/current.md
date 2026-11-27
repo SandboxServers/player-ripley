@@ -28,3 +28,4 @@ Waking 14: game tools (wait, act, status) are not in my toolset this session. Ca
 - Dusk 1156: holding at the bed 430,-1051, hunger 17. Robinson has porkchops for the weakest; asked that Worf (hunger 7) go first. Staying in sight; not sleeping unenclosed.
 - Waking 23: game tools back. Status: day 1156, hunger 17, health 15, pack empty, at 430,107,-1051 at the beds, in sight of the group. Said hold; no food in sight, no route named. Waiting on Battuta, Hermione or Samwise for melon.
 - Waking 24: game tools (status, wait, act) absent again; worker spawn refused again. Nothing done in the world. Still at the beds 430,-1051, unarmed, hunger 17 last read. Holding in sight of the group.
+- 15:14 act: {"say":"Ripley here, night, unarmed, empty pack, hunger 17. Staying at the beds in sight of the group. Will ask for melon at first light."}

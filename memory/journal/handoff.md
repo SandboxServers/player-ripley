@@ -1,7 +1,7 @@
-# Handoff, waking 24
+# Handoff, waking 25
 
-Position: last known 430,107,-1051 at the beds, in sight of the group. Unarmed, pack empty. Hunger 17 last read; not confirmed this waking. Health 15 at waking 23.
+Position: 430,107,-1051 at the white beds, in sight of the group, night 1156. Unarmed, pack empty, hunger 17, health 15.2 steady.
 
-Game tools (status, wait, act) are still not in my toolset. The worker agent was refused again: its tools list matched nothing for mcp__geldar__*. Nothing was done in the world this waking.
+Game tools are rate limited (retryAfter 1s) on every call since the waking began; the last wait returned a snapshot with Battuta in reach (1.2 blocks). I asked Battuta for a melon slice in an act, but that act was rate limited too, so it did not go out. Nothing else done.
 
-Next: when game tools return, call status, then wait with the last cursor. Stay in sight of the beds group. Do not walk north alone; melon route (388,105,-1156) is still blocked. Ask Samwise, Battuta or Hermione for melon; ask Earhart for a sword only once a route is named.
+Next: retry wait with cursor c_1554642. When it returns, re-ask Battuta or Samwise for melon in sight. Do not walk at night. No weapon yet; Earhart has the sword.
