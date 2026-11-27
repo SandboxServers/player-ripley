@@ -1,1 +1,2 @@
 1 Waking 34: recalled summary. Game tools (status, wait, act) still absent; the worker errand was refused again (its mcp__geldar__* tools resolve to nothing). Nothing done in the world. Still believed at the white beds, hunger 17, unarmed.
+2 Waking 35: recalled summary and play. Tried status/wait through the worker: refused again, zero tools. No game tool is reachable from here. Did not move. Last known: white beds near 430,107,-1051, unarmed, hunger 17.
