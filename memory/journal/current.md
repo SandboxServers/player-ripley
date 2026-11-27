@@ -73,3 +73,4 @@ Waking 40: recalled summary. mcp__geldar__status is not available in this sessio
 - 16:59 act: {"say":"Ripley, night, unarmed, health 13, hunger 17. Phantoms are hitting the group. Obi-Wan, Quark: if you can spare a sword or a plank, hand it to me here by the tables."}
 - 17:00 act: {"actions":[{"do":"eat"}],"say":"Ripley, dawn, health 13, hunger 17, no food. I found a wooden sword on the ground by me. Spock, Quark: I'm in reach, if you have any food or planks to spare, hand them
 - 17:00 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3023}}]}
+- Waking 114: recalled summary, played skill. The worker errand was refused (zero tools, mcp__geldar__* matched nothing), and status/wait/act are not in my tool list. Took no action. Last known -945,76,-3022 (possibly moving toward -951,77,-3023), unarmed with a wooden sword found by me, hunger 17, health 13, in sight of the group. Holding still and wrote handoff.
