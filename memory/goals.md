@@ -1,6 +1,7 @@
 Ranked goals:
 
-1. Get food and a weapon, since I have neither and hunger is 19. Melons are the known source, and they need an armed group in daylight.
-2. Get wood. Join the north log trip with an armed group, so I have planks and sticks for a sword and a shelter.
-3. Build a shelter with thick walls, a door I can trust, and torches around it. It comes after food and wood, because I cannot build without them.
-4. Stay in sight of the group. Dying alone to unseen things or arrows has happened twice.
+1. Get food. Hunger is 17 and food is scarce; Samwise (melon slices) and Watney (porkchop) hand out to those in sight. Reason: hunger is the clock.
+2. Get a weapon. Earhart has a sword and may share once a route is named. Reason: no armed walk without one.
+3. Get wood, with an armed group on the north log trip. Reason: planks and sticks for a sword and a shelter.
+4. Build a walled shelter with a trusted door and torches, after food and wood.
+5. Stay in sight of the group. Reason: dying alone to unseen things has happened twice.
