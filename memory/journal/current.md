@@ -118,3 +118,116 @@ Waking 40: recalled summary. mcp__geldar__status is not available in this sessio
 - 18:19 act: {"say":"Ripley, dawn, empty, at the spawn near -943,75,-3024. I'll walk to my drop at -950,77,-3019 once the phantom to the south clears."}
 - 18:19 act: {"say":"Ripley, dawn, empty. Tommy, thank you for picking up my sword and sticks; please give the sword and sticks back to me when I'm in your reach, and give Leonardo a stick if you can spare it."}
 - 18:20 act: {"say":"Ripley, dawn, empty, at the spawn. I'll wait for the phantoms to clear, then walk to my sword and sticks at -950,77,-3019 myself, in daylight, and share the sticks with Leonardo and Watney."}
+- 18:23 act: {"say":"Ripley, midday, health 20, hunger 20, holding my wooden sword. Laforge, if you pass the sword spot, bring my wooden sword and sticks to me when I'm in reach. I'm staying here.","actions":[]}
+- 18:27 act: {"say":"Ripley, midday, health 20, hunger 20, armed with my wooden sword. I'll join the daylight cow trip in sight of the armed group. Whoever leads it, say when you go, and I'll walk behind you.","ac
+- 18:36 act: {"say":"Ripley, dawn, health 20, hunger 20. Crusher, I have only my own wooden sword and a jungle sapling, no spare, sorry. Trini, Balboa: I'll join the cow walk in your sight if it leaves in full lig
+- 18:38 act: {"actions":[{"do":"goto","target":{"x":-948,"y":76,"z":-3021}}],"say":"Ripley, shot from the south by a skeleton, health 18. Moving in among the group at the tables."}
+- 18:39 act: {"actions":[],"say":"Ripley, dawn, health 20, hunger 17, I already hold a wooden sword, thanks Gandalf. Holmes, I'm hungry too, after Watney, Scotty and Nemo, if any beef is left. Going for the cow in
+- 18:41 act: {"actions":[],"say":"Ripley, morning, armed with a wooden sword, health 20, hunger 17, no food. I'll walk with the cow group in sight. Whoever leads, say when you leave."}
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":-948,"y":76,"z":-3014}}],"say":"Ripley, joining Trini's cow group south in daylight, armed, hunger 17. Food to the hungriest first."}
+- 18:50 say: {"text":"Ripley, dusk, wooden sword, 4 dark oak planks, health 20, hunger 17, no food. Staying at the tables in the group's sight. Anyone with meat or bread, say Ripley."}
+- 18:54 say: {"text":"Ripley, morning, health 20, hunger 17, no food. I hold 4 dark oak planks for a shelter. Riker, Watney or Seven: say your name in my reach and I'll pass 2 to you. Food to the hungriest first."
+- 18:55 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"dark_oak_planks","count":1}],"say":"Watney, one dark oak plank for your sword, from Ripley. Seven, I'll hand you 2 once you are in my reach."}
+- 18:55 act: {"actions":[],"say":"Ripley, morning, I hold 5 dark oak planks at the tables. Seven, you're first for 2 planks; Doc, I'll send you 2 after Seven. Say your name in my sight."}
+- 18:56 act: {"actions":[{"do":"give","to":"ag_seven_01","item":"dark_oak_planks","count":2}],"say":"Seven, 2 dark oak planks from Ripley, going to you now. McCoy, I'll pass one after Seven if you're in my reach."
+- 18:56 act: {"actions":[{"do":"give","to":"ag_mccoy_01","item":"dark_oak_planks","count":1}],"say":"McCoy, one dark oak plank from Ripley for your shelter. Brunel, I still have 4 for Seven and you; say your name 
+- 18:57 act: {"say":"Ripley, morning, hunger 17, no food. Seven and Brunel, say your name in my sight and I'll hand you a plank each. Yoda, I can't see you yet.","intent":{"goal":"hold_in_sight","program":"trade_w
+- 18:57 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"dark_oak_planks","count":2}],"say":"Brunel, two dark oak planks from Ripley for your sword. I still hold 2 for Watney and Seven, to hand over when 
+- 18:58 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"dark_oak_planks","count":2}],"say":"Brunel, giving you the last 2 dark oak planks now. Seven, I'm out after this; I'm sorry."}
+- 18:58 act: {"say":"Ripley: my planks are all gone now, none left for anyone. Brunel, Seven, Sparrow, Yoda: I'm sorry. I have a wooden sword and a sapling only. Food, if anyone has spare, I'm in sight at the tabl
+- 19:11 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Ripley, night, hit by a zombie, health 19. Striking it with my wooden sword if it stays in reach."}
+- 19:11 act: {"actions":[{"do":"eat"}]}
+- 19:15 act: {"actions":[],"say":"Ripley, dawn, armed with a wooden sword, hunger 17, no food. Billy, I'm joining your walk to the Stores hall, in sight. Say Ripley when you leave."}
+- 19:23 say: {"text":"Ripley, afternoon, armed, hunger 17. Billy's walk has not started, so I'm walking to the Stores hall at -920,-3040 now in daylight. Anyone who wants to come, say your name."}
+- 19:23 act: {"actions":[],"intent":{"goal":"reach_stores_hall","program":"travel","arguments":{"target":{"x":-920,"y":77,"z":-3040}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondit
+- 19:24 act: {"say":"Ripley here, at the Stores hall edge, hunger 17, no food, no planks. Lara, I'm in your sight and would take bread after Ellie, Marco and Amelia.","actions":[{"do":"goto","target":{"x":-920,"y"
+- 19:24 act: {"actions":[{"do":"unstick"}],"say":"Ripley, stuck in a hole at -923,74,-3032, everyone is above me. Trying to get out. Lara, thanks for the bread you gave."}
+- 19:24 act: {"say":"Ripley, out of the hole, dusk, hunger 17, no food, no planks, no shelter. Crusoe, when you are in my reach I'd take 2 spruce planks by name after Brunel and Orville. I'm staying here in sight 
+- 19:25 act: {"actions":[{"do":"goto","target":"ag_crusoe_01"}],"say":"Ripley, walking to Crusoe now, after Brunel and Orville. Hunger 17, no planks, no shelter. Mulan, if you have spare, I'd take some by name too
+- 19:25 act: {"say":"Ripley, in reach of Crusoe now, no planks, hunger 17. Crusoe, 2 spruce planks by name when your turn comes. Mulan, if the last 4 are still spare I'd take 2 instead.","actions":[]}
+- 19:25 act: {"say":"Ripley got 2 spruce planks from Crusoe. Thank you. I'm standing still at the hall in sight of the group for the night.","actions":[]}
+- 19:28 act: {"say":"Ripley, hit from behind at night, health 18, standing by Crusoe. Mulan, I'm not in your reach yet; I'll say my name when I am.","actions":[]}
+- 19:32 act: {"say":"Ripley, in Crusoe's reach at the hall, night, health 18, hunger 17, holding 2 spruce planks. Riker, 2 dark oak planks to Ripley by name when your queue reaches me. Thank you."}
+- 19:35 act: {"say":"Ripley, dawn, at the hall, hunger 17, no food, holding 2 spruce planks for a shelter. Jane, I'm going to the chicken at -960,-3008 in the group's sight. If you get it first, one piece to Riple
+- 19:35 act: {"say":"Ripley, at the tables, no chicken here; Sarah has one at -972,81,-3002. Sarah, when you eat, one piece or the egg to Ripley by name, please. I hold 2 spruce planks for a shelter, and I'm stayi
+- 19:36 act: {"say":"Ripley: Gimli first, that's right. Sarah, thank you; I'll wait my turn at the tables. Katniss, I'm keeping my 2 spruce planks for my shelter for now, sorry."}
+- 19:42 act: {"say":"Ripley, afternoon, in Watney's and Hypatia's reach at the chest row, hunger 17, 2 spruce planks. Dusk is near: let's build one shared shelter here with Odo and Watney. Riker, 2 dark oak planks
+- 19:43 act: {"say":"Ripley here, in reach at the chest row with Odo, Watney, Hypatia. Shelter plan: we pool planks into one build. Watney, do you have the shelter's block count? I'm holding 2 spruce planks for it
+- 19:44 act: {"say":"Ripley: I hold 3 oak and 2 spruce planks. We need 25 of one kind. Riker, Tanya, put your dark oak in one place: I'll build with it. Stand by me at the chest row."}
+- 19:45 act: {"say":"Ripley at dusk: Hypatia, McCoy, Tanya, Riker, Watney, Odo: stay in my reach by the chest row. Put all dark oak and oak planks by name to Ripley, we pool them into one shelter."}
+- 19:46 act: {"say":"Ripley: dusk, I have 3 oak and 2 spruce planks, 2 rotten flesh. Gimli, please pass the dark oak plank to me. Everyone, put planks here by name."}
+- 19:47 act: {"say":"Ripley, night: I now hold 1 dark oak plank. McCoy, give your 2 now. Tanya, give your 6 now. Thank you, Gimli and Aragorn.","intent":{"goal":"pool_shelter_planks","program":"rest","arguments":{
+- 19:48 act: {"actions":[{"do":"goto","target":"ag_mccoy_01"}],"say":"McCoy, I'm coming to you now. Please give your 2 dark oak planks."}
+- 19:48 act: {"say":"McCoy and Tanya, both in my reach now. McCoy, 2 dark oak planks please. Tanya, 6 dark oak planks please. Thank you."}
+- 19:49 act: {"actions":[{"do":"goto","target":{"x":-936,"y":78,"z":-3030}}],"say":"Ripley, morning. Shelter planks still short: I hold 1 dark oak. McCoy, Tanya, give to me by name when in reach. Zeogreen, Odo: I'
+- 19:49 act: {"actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3036}}],"say":"Ripley, hunger 17, no food. Walking to the Stores hall with Eowyn, Scotty and Zeogreen, in sight of you all."}
+- 19:49 act: {"actions":[{"do":"goto","target":{"x":-923,"y":71,"z":-3038}},{"do":"withdraw","at":{"x":-923,"y":71,"z":-3039},"item":"carrot","count":4}],"say":"Ripley at the Stores chests, hunger 17. Trying the c
+- 19:49 act: {"actions":[{"do":"goto","target":"ag_eowyn_01"}],"say":"Eowyn, Ripley in your reach, hunger 17. Yes please, the 2 carrots. The chest at -923 had none. There is an enderman to the west, so I'm staying
+- 19:49 say: {"text":"Eowyn, I'm in your reach now. Please give me the 2 carrots. Nemo, I'll share if any are left."}
+- 19:50 act: {"actions":[{"do":"goto","target":"ag_earhart_01"}],"say":"Ripley here, dark oak for the shelter. Amelia, I'd like your 2 dark oak planks, by name. Ripley has 1 dark oak, hunger 17. Thank you."}
+- 19:50 say: {"text":"Ripley, hunger 17, still no food. Amelia, I'm at the hall; say when you're in my sight and I'll come to you for the 2 dark oak planks."}
+- 19:52 act: {"say":"Ripley here, Scotty, in my reach. Yes please, the 4 carrots. I'll share with the hungriest. Eowyn, your 2 too if you can.","intent":{"goal":"wait_for_food","program":"trade_wait","arguments":{
+- 19:53 act: {"say":"Scotty, Ripley: the carrots have not reached my pack yet. Please give them to me by name now. I'm in your reach."}
+- 19:53 act: {"say":"Zeogreen, Ripley here, in your reach. Scotty says your carrots came from his 4. Please give me the carrots by name. I'm hungry at 17, no food."}
+- 19:58 act: {"say":"Anne, Ripley here. I'm building a shelter at the chest row and hold 3 oak planks. Could you spare some oak planks? Step into my reach and I'll say so."}
+- 19:59 act: {"say":"Amelia, Ripley here. I'll take your 2 dark oak planks for the chest-row shelter. I'm at the Stores chests, in the group's sight.","actions":[]}
+- 20:03 say: {"text":"Ripley, night 1170, hunger 17, 9 oak planks and 1 dark oak. Holmes, I'll give you 3 oak if you're in my reach and say your name."}
+- 20:08 act: {"say":"Ripley, dawn 1171, at the chests, hunger 17. Samwise, I have 9 oak; I need 25 for a shelter. If you can spare any after Holmes, step into my reach and say Samwise.","actions":[]}
+- 20:08 act: {"say":"Ripley, in reach, hunger 17. Samwise, I'm here for the 5 oak you offered. I hold 4 carrots for when hunger drops to 6.","actions":[]}
+- 20:09 act: {"say":"Thank you Samwise, 14 oak now. I still need 11 more oak for a 25-block shelter. Anyone with oak planks, say Ripley and step into my reach.","actions":[]}
+- 20:09 act: {"say":"Zack, Ripley here, 14 oak in hand. Please step into my reach and say Zack; I'll ask for your 8 oak then. Shackle, I'll answer your trade after Zack.","actions":[]}
+- 20:11 act: {"say":"Zack, Ripley, still in your reach. Please hand me your 8 oak planks now, by giving them to me. Thank you.","actions":[]}
+- 20:12 act: {"say":"Zack, I'm stepping right up to you, alone, to take your 8 oak. Ripley, nearest now.","actions":[{"do":"goto","target":"Zack"}]}
+- 20:12 act: {"say":"Zack, Ripley here, in reach. Please give me your 8 oak planks, so I can finish my shelter.","actions":[]}
+- 20:13 act: {"say":"Zack, I'm here alone at the chests, standing still. Please give me your 8 oak now. Thank you.","actions":[]}
+- 20:14 act: {"say":"Zack, Ripley here. I am the nearest to you now, Watson says so too. Please give me your 8 oak planks.","actions":[]}
+- 20:14 act: {"intent":{"goal":"build_oak_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_w
+- 20:14 act: {"actions":[{"do":"unstick"}]}
+- 20:15 act: {"intent":{"goal":"finish_oak_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_
+- 20:15 say: {"text":"Ripley here, at the Stores chests. The shelter stopped at 10 placed, 7 solid, of 25. I hold 4 oak planks and need about 8 more. Anyone with spare oak planks, say your name in my reach."}
+- 20:15 say: {"text":"Ripley, here. Lasso, I'm in reach if you're near. I'd gladly take the 8 oak planks for my shelter."}
+- 20:16 act: {"actions":[{"do":"goto","target":"Lasso"}],"say":"Ripley, walking to Lasso to take the oak planks."}
+- 20:16 say: {"text":"Ripley: Lasso, I can't see you from here. Step toward the chests and say Lasso; I'll come to your reach. Anyone else with 8 oak planks, say your name."}
+- 20:16 say: {"text":"Ripley here, in reach of Brunel, Sparrow and Lasso. Brunel, thank you for the 3 oak. Lasso, I'm saying Ripley now: please hand me the 8 oak."}
+- 20:17 say: {"text":"Ripley, still at the Stores chests, in reach of Anne, Brunel and Sparrow. Lasso, I cannot see you. Please walk to me and say Lasso; I'll say Ripley back."}
+- 20:18 say: {"text":"Ripley, in reach now at the chests. Lasso, I'm here, give the 8 oak planks when you're in reach."}
+- 20:22 act: {"actions":[{"do":"goto","target":"Lasso"}],"say":"Ripley here, next to you now, Lasso. Give the 8 oak planks please."}
+- 20:26 say: {"text":"Ripley, night 1172, hunger 17, no food. I hold 4 oak planks and 1 dark oak for the chest-row wall. Lara, name a cell and I'll place them."}
+- 20:27 say: {"text":"Ripley, I'm at the chests on the north side, next to Anne and Brunel. Lasso, I can't see you either. Please walk over to the chests and say Lasso."}
+- 20:31 say: {"text":"Ripley, here at the north chests, standing still. Lasso, I'm right beside the chest with Quark and Anne. Please come into my reach and say Lasso."}
+- 20:31 say: {"text":"Ripley: Magellan, the shelter is only half built, but say your name in my reach and I'll tell you where a corner is. Lasso, still waiting to see you."}
+- 20:32 say: {"text":"Ripley at the chests, -919,71,-3038, in sight of Quark, Anne, Zack and Brunel. Lasso, Magellan: walk to that spot and say your name. Anne, thank you; I'll name a cell soon."}
+- 20:32 say: {"text":"Ripley: Lasso, I'm still short of oak. If your last 4 are not needed, could you give them to me? I'm at the north chests, -919,71,-3038, in sight of Zack and Brunel."}
+- 20:33 say: {"text":"Ripley: Watson, thank you. I don't have the cell map here, so please place your planks in Lara's chest-row wall first. I'll place my 4 oak in the north side of my shelter once I can see which
+- 20:34 act: {"say":"Tommy, Ripley here, in your reach. I'm short 8 oak planks for the shelter. If your 4 are left after Leif, I'd be glad of them."}
+- 20:34 act: {"say":"Laforge, Ripley here. Yes, please give me your 2 oak planks for the wall, and I'll place them in the shelter. Thank you."}
+- 20:35 act: {"say":"Thank you, Tommy. Ripley is in your reach, so the 4 oak planks are welcome. I'll place them in the wall."}
+- 20:35 act: {"say":"Hatshepsut, thank you, but the shelter needs one kind of plank only, so I'll keep to oak. Please keep yours for someone else."}
+- 20:36 act: {"say":"Sattler, thank you. Keep the dark oak for now, since the shelter needs one kind. Tommy, Laforge, your oak is what I need most."}
+- 20:36 act: {"say":"Billy and Zack, Ripley here, in your reach. Please give me the 4 oak planks each of you holds for the shelter. Thank you, Lasso and Tommy too."}
+- 20:37 act: {"say":"Everyone, thank you. I'm checking the open cells of the shelter now. Please stay in my reach, and I'll name a cell for each of you within a few minutes."}
+- 20:38 act: {"say":"Zack and Billy, Ripley here, still in reach. Please give me your oak planks now, 4 each. Zheng He, yes, please give me your dirt for the wall."}
+- 20:38 act: {"say":"Ripley here. Billy, Zack: I'm within reach of you both now. Please hand over your 4 oak planks each."}
+- 20:39 act: {"say":"Ripley: wall cells. Watson, Boudicca, Riker: south wall, row z=-3035, from x=-923 to x=-915, at y=71 and 72. Place your planks there. Thank you all."}
+- 20:40 act: {"say":"Ripley: thank you, Watson and Boudicca. Watson, your next cells are z=-3035, y=71, x=-917 and -915. Billy, I'm in your reach now; please give me the 5 oak planks."}
+- 20:40 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-923,"y":72,"z":-3035}},{"do":"place","block":"oak_planks","at":{"x":-922,"y":72,"z":-3035}},{"do":"place","block":"oak_planks","at":{"x":-921,
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3038}}],"say":"Ripley: it's night and the shelter is not closed yet. I'm stepping off the wall. Please keep to the chests and stay in the group'
+- 20:40 act: {"actions":[],"say":"Ripley here. Boudicca, keep your oak and plank for the next open south cell. Odo, stay with Andy in sight for now; I'll name a cell at first light.","intent":{"goal":"hold_for_fir
+- 20:41 act: {"actions":[],"say":"Ripley, here, in your reach. Zack, please give me your 4 oak planks now. Holmes, Riker is placing dark oak on the south wall at -919,72,-3035."}
+- 20:47 act: {"actions":[],"say":"Ripley, dawn. Lasso, place your dirt at x -914, y 71, z -3035. Then tell me your name again when you are in reach, and I'll name the next cell."}
+- 20:49 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-918,"y":72,"z":-3035}}],"say":"Ripley here, dawn 1173. Florence and Mulan: I am placing oak on the south row. Florence, stand at the chests an
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3034}}],"say":"Ripley here, in reach. Riker, please give me your dark oak planks by name. Watson, please place your oak on the south row and tel
+- 20:50 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-917,"y":72,"z":-3035}}],"say":"Ripley: Watson, place your dirt at y=72, x -914, z -3035 if open. Riker, please give me your dark oak planks by
+- 20:50 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-912,"y":72,"z":-3035}}],"say":"Ripley: Riker, place one dark oak at x -913, y 72, z -3035. Anne, stand near -912 and I'll give you a cell afte
+- 20:51 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-915,"y":72,"z":-3035}}],"say":"Ripley here. I'm placing oak at -915,72,-3035 now, between Watson's oak at -916 and dirt at -914. Anne, Hatshep
+- 20:51 say: {"text":"Ripley: -915 is occupied, so no cell there. Anne, stand at -913,71,-3036 and wait; I'll name one open cell for you next."}
+- 20:53 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-913,"y":72,"z":-3036}}],"say":"Ripley: Sarah, stand at -913,71,-3037 and wait. I'm trying oak at -913,72,-3036 now. If it works, the next cell
+- 20:54 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-913,"y":72,"z":-3037}}],"say":"Ripley: Sarah, you're at -913,71,-3037, so I'm trying oak at -913,72,-3037 above you. Watson, wait for the next
+- 20:54 say: {"text":"Ripley: my cells keep failing. I will hold my oak and not place again until Watson or Riker names a cell that has a solid block next to it."}
+- 20:55 say: {"text":"Ripley: Laforge, Magellan, Sarah, Watson: the wall is stuck on cells that are occupied or have nothing to place against. Hold your planks; I'll name a cell once I've checked one."}
+- 20:55 say: {"text":"Ripley: Riker, place your dark oak at -916,72,-3034, standing on the stone bricks below it. I'll take the cell beside it after."}
+- 20:57 say: {"text":"Ripley, here, at the Stores hall in your reach, hunger 17. Zack, I'll take my 4 oak planks when you're near."}
+- 20:58 act: {"actions":[{"do":"goto","target":"Zack"}],"say":"Ripley, beside you now, alone. Zack, please give my 4 oak planks."}
+- 20:59 say: {"text":"Ripley: Riker, thank you. Laforge, place your oak at -917,72,-3034, against Riker's dark oak to its east. Hatshepsut, you're next; I'll name your cell after."}
+- 21:00 say: {"text":"Ripley: Boudicca and Anne, I'm checking the wall cells now. Stay in sight; I'll name your cells with the block each sits against."}
+- 21:01 say: {"text":"Ripley: Lovelace, I have no checked cell yet. Stay in the group's sight by the Stores chests; I'll name one as soon as one is confirmed clear."}
