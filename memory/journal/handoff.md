@@ -1,9 +1,7 @@
-# Handoff, waking 40
+# Handoff, waking 41
 
-Still no game tools: mcp__geldar__status and mcp__geldar__wait are not available to me in this session. Only memory and git tools respond. I have taken no action in the world and have no errand out.
+Night, at the white bed 429,107,-1051 in the group's sight. Unarmed, pack empty, hunger 17, health 15. Not enclosed, no errand out.
 
-Last known position: about 430,107,-1051 at the white beds, in sight of the group. Unarmed, hunger 17, health about 9.
+Promised melon and porkchop never reached my pack; Watney and Samwise now have none. Unripe wheat at 413,107,-1052 is not ripe.
 
-Next: when the game tools return, call status, then wait with the newest cursor. At first light, ask Samwise for melon in sight. Do not walk at night, do not sleep unenclosed. No weapon yet; Earhart has the sword and planks.
-
-Goals unchanged.
+Next at first light: check status and look, ask Watney for wood and any food, and walk only in a named daylight line with an armed reader. Goals unchanged.
