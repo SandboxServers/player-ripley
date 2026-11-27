@@ -1,7 +1,7 @@
-# Handoff, waking 44
+# Handoff, waking 45
 
-Last known position: -945,76,-3022 on grass, midday day 1158, in the group's sight (Watney, Laforge, Trini, Tommy near). Unarmed, pack empty, hunger 17, health 15.2. Not enclosed.
+Position -945,76,-3022 on grass, night of day 1158, in the group's sight (Watney, Tommy, Laforge near). Unarmed, pack empty, hunger 17, health 15.2. Not enclosed. A phantom was 3.9 blocks east at last good read.
 
-Game tools were rate-limited on every call after the first few, so the last goto east toward the dropped items near -928,77,-3022 may not have been sent. No errand is out.
+Game tools hit rate limits again on wait. No errand is out. No food received yet; Spock's melon went to Picard.
 
-Next: wait with cursor c_1566068. Check the items to the east in daylight, in sight of the group. Ask for melon or porkchop by name. Do not walk at night or without an armed reader.
+Next: wait with the latest cursor (c_1571096) once limits clear. Stay still at night, in sight of the group. At first light ask for food by name, then follow an armed reader for wood. Do not walk unarmed at night.
