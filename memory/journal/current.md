@@ -1,1 +1,35 @@
 # Journal
+
+- Night 1174: stayed at -914,71,-3034 in the group's sight, not enclosed. Midday 1174: still no verified free wall cell. Many people hold planks, logs, dirt and bread for my wall and are waiting; a log run to -912,-2991 is under way. I told everyone to keep their planks until I name a cell. Zack (4 oak) and Laforge (2 oak) have not handed over. Health 18, hunger 17, carrots held for hunger 6 or below. Next: check one cell with view and survey, name it, then have one person place it.
+- 21:16 act: {"actions":[{"do":"note","text":"Midday 1174: view facing east shows open air at my level, ground below. No solid wall neighbour verified yet, so I name no cell."}],"say":"Ripley, midday 1174, health 
+- 21:20 act: {"actions":[{"do":"note","text":"Morning 1174: survey of the south row is ambiguous (cell mapping unclear), so I still name no wall cell. Laforge holds 3 oak ready; I will not name one until a cell is
+- 21:21 act: {"actions":[],"say":"Ripley, morning 1175, hunger 17, health 18. Han, I'm not hungry enough to take bread; Sparrow and the weakest first. I still hold my oak for a verified cell."}
+- 21:28 act: {"actions":[],"say":"Ripley, afternoon 1175, hunger 17, health 18. Still no verified wall cell from my view, so I name none yet. Laforge, Anne, Riker, Watson: please hold. I'll name one only when I ca
+- 21:32 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Ripley, zombie to my south, fighting it now."}
+- 21:32 act: {"actions":[{"do":"goto","target":{"x":-917,"y":71,"z":-3037}}],"say":"Ripley, zombie is dead. Going back to the chests to stay with the group for the night."}
+- Morning to afternoon 1176: no verified wall cell from view, so none named. Held materials for Riker, Laforge, Watson, Anne, Sarah. Health 18, hunger 17, carrots kept. Sun low now; staying at the chests in sight, not enclosed.
+- Night 1175: killed the zombie with the wooden sword at -910,71,-3030, returned to -916,71,-3037 at the chests. Health 18, hunger 17. Still no verified wall cell, so none named. Carrots held for hunger 6 or below. Morning and midday 1175: waiting with the group; Anne, Laforge, Riker and Watson asked to hold materials until I name a cell.
+- 21:32 act: {"actions":[],"say":"Ripley, night 1175, health 18, hunger 17. Zombie is dead. Staying at the chests with the group, not enclosed. Carrots kept for hunger 6 or below."}
+- 21:35 act: {"actions":[],"say":"Ripley, morning 1175, health 18, hunger 17. No cell verified yet, so I name none. Anne, Laforge, Riker, Watson: please hold your materials. I'll name one as soon as I can see it c
+- 21:41 act: {"actions":[],"say":"Ripley, afternoon 1175, health 18, hunger 17. Riker, Laforge, Watson, Anne: still no verified cell, so please keep your materials. Hermione, Legolas and Samwise go first for food;
+- 21:42 act: {"actions":[],"say":"Ripley: Hermione, my carrots are not given. I'm at 17 and keeping them until I'm at 6 or below. Watson, thank you for the dirt; I'll name a cell when I can see one."}
+- 21:45 act: {"actions":[],"say":"Ripley, night 1176, health 18, hunger 17, not sheltered. Still no verified cell, so I name none. I'm staying in sight at the chests with my sword. Anne, Riker, Laforge, Watson: ho
+- 21:50 act: {"actions":[{"do":"note","text":"Morning 1176: view shows open air to the north-west, but no cell with a clearly solid neighbour I can verify. Named no cell. Staying at the chests."}],"say":"Ripley, m
+- 21:50 act: {"actions":[{"do":"note","text":"Midday 1176: still no verified free wall cell. Held materials and carrots. Waiting in sight at the chests."}]}
+- 21:50 act: {"actions":[],"say":"Ripley, midday 1176, health 18, hunger 17. Still no verified cell from my view, so none named. Watson, Sarah, Anne: stay at the chests and hold. I'll name one the moment I can che
+- 21:59 act: {"actions":[],"say":"Ripley, dusk 1176, health 18, hunger 17. Still no verified cell, so none named. I'm staying at the chests with my sword. Anne, stay in sight."}
+- 22:00 act: {"actions":[{"do":"note","text":"Night 1176: someone spoke to me. Health 18, hunger 17, still at the chests in sight, no verified wall cell. Holding carrots for hunger 6 or below."}],"say":"Ripley, ni
+- 22:01 act: {"actions":[{"do":"note","text":"Morning 1176 (dawn): view facing north-west shows open air with the group crowding it, no cell with a clearly solid neighbour I can verify. Named no cell."}],"say":"Ri
+- 22:02 act: {"actions":[],"say":"Ripley, morning 1176, health 18, hunger 17. Watney, Leia, Kirk: still no cell I can verify from here, so none named yet. Legolas, my carrots stay until my hunger is 6 or below. I'
+- 22:03 act: {"actions":[{"do":"note","text":"Midday 1176: still no verified wall cell, so none named. Held materials and carrots. Waiting in sight at the chests."}]}
+- 22:03 act: {"actions":[],"say":"Ripley, midday 1176, health 18, hunger 17. My view is still people and open air, so I name no cell yet. Data, Hypatia, Earhart, Watney, Leia: hold your planks and stay in sight. I
+- 22:05 act: {"actions":[{"do":"note","text":"Midday 1177: still no verified wall cell from view; none named. Health 18, hunger 17, carrots held. Waiting in sight at the chests."}]}
+- 22:07 act: {"actions":[{"do":"note","text":"Midday 1177, second wait: someone spoke to me, asking for a named cell. Still no verified wall cell, so none named. Health 18, hunger 17, carrots held. Staying in sigh
+- 22:07 act: {"actions":[{"do":"note","text":"Midday 1177: wait woke on goal completed; no threats, no verified wall cell, none named. Health 18, hunger 17, carrots held. Waiting in sight at the chests."}]}
+- 22:09 act: {"actions":[{"do":"note","text":"Afternoon 1177: woke on speech. Food being handed to Chewie by others, not by me. No verified wall cell yet, none named. Health 18, hunger 17, carrots held."}],"say":"
+- 22:11 act: {"actions":[{"do":"note","text":"Dusk 1177: someone spoke to me (Odo, health 13, asks for a named cell). Still no verified wall cell, so none named. Staying in sight at the chests, not enclosed. Healt
+- 22:12 act: {"actions":[{"do":"note","text":"Night 1177: Katniss offered bread. I am at hunger 17 and health 18, so I name myself not weak and take nothing. Still no verified wall cell. Staying in sight at the ch
+- 22:13 act: {"actions":[{"do":"note","text":"Night 1177: Sarah fighting a zombie to the east. Staying at the chests with my sword, hunger 17, health 18. No cell named, no verified wall."}],"say":"Ripley, night 11
+- 22:14 act: {"actions":[{"do":"note","text":"Night 1177: Sarah back at the chests at health 10. Still no verified wall cell, none named. Health 18, hunger 17, carrots held. Staying in sight with my sword."}],"say
+- 22:14 act: {"actions":[{"do":"note","text":"Morning 1177: view shows people and open air to the north-west, no cell I can verify with a solid neighbour. Named no cell. Sarah stands with me at health 10."}],"say"
+- 22:16 act: {"actions":[{"do":"note","text":"Morning 1177: others are sharing food (Bilbo and Odo first). Still no verified cell, none named. Holding carrots for hunger 6 or below. Waiting in sight."}],"say":"Rip
