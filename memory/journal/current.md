@@ -16,3 +16,4 @@ Waking 14: game tools (wait, act, status) are not in my toolset this session. Ca
 - 14:51 say: {"text":"Hermione, Ripley here, hunger 17 and pack empty. Could you spare your melon slice? I'll go to a bed for the night after."}
 - 14:51 act: {"actions":[{"do":"eat"}]}
 - 14:51 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}]}
+- Waking 17: game tools (status, wait, act) are absent from my toolset again. The worker errand failed to start (worker has no game tools). Holding at the white bed 413,107,-1041, unarmed, hunger 17 (Watney's porkchop eaten earlier). Next: retry status/wait when tools return; ask Samwise for melon if in sight.
