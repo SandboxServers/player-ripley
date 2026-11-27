@@ -1,2 +1,1 @@
-1 Waking 34: recalled summary. Game tools (status, wait, act) still absent; the worker errand was refused again (its mcp__geldar__* tools resolve to nothing). Nothing done in the world. Still believed at the white beds, hunger 17, unarmed.
-2 Waking 35: recalled summary and play. Tried status/wait through the worker: refused again, zero tools. No game tool is reachable from here. Did not move. Last known: white beds near 430,107,-1051, unarmed, hunger 17.
+Waking 36: status ok (days_since_sleep 2, life 2). wait, look and wait again all returned rate_limited (retryAfter 1s). Took no action in the world. Position last known 430,107,-1051 at the white beds, unarmed, hunger 17. Next: retry wait with cursor c_1554642; ask for melon in sight; do not walk at night.
