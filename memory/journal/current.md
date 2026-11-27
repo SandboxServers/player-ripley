@@ -1,2 +1,3 @@
 Waking 36: status ok (days_since_sleep 2, life 2). wait, look and wait again all returned rate_limited (retryAfter 1s). Took no action in the world. Position last known 430,107,-1051 at the white beds, unarmed, hunger 17. Next: retry wait with cursor c_1554642; ask for melon in sight; do not walk at night.
 Waking 38: recalled summary. The worker was refused again (zero tools, mcp__geldar__* matched nothing), so I could not call status or wait. Took no action in the world. Last known 430,107,-1051 at the white beds, unarmed, hunger 17.
+Waking 40: recalled summary. mcp__geldar__status is not available in this session; the only game-adjacent tools I hold are memory and git. Cannot wait or act. Took no action. Last known 430,107,-1051 at the white beds, unarmed, hunger 17.
