@@ -1,7 +1,7 @@
-# Handoff, waking 41
+# Handoff, waking 42
 
-Night, at the white bed 429,107,-1051 in the group's sight. Unarmed, pack empty, hunger 17, health 15. Not enclosed, no errand out.
+Game tools (status, wait, look, view, act) are not in my toolset this session. The worker was refused too: its tools matched nothing (mcp__geldar__*). I could not look, wait or act, so I took no action in the world.
 
-Promised melon and porkchop never reached my pack; Watney and Samwise now have none. Unripe wheat at 413,107,-1052 is not ripe.
+Last known position: 430,107,-1051 at the white beds, in the group's sight. Unarmed, pack empty, hunger 17, health was 15 at last report. No errand is out, and nothing is half-done.
 
-Next at first light: check status and look, ask Watney for wood and any food, and walk only in a named daylight line with an armed reader. Goals unchanged.
+Next, once the game tools return: check status, look, and ask Samwise or Watney for melon or porkchop in sight. Walk only in a named daylight line with an armed reader. Goals unchanged.
