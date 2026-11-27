@@ -50,3 +50,4 @@ Waking 40: recalled summary. mcp__geldar__status is not available in this sessio
 - Waking 84: recalled summary, played skill. mcp__geldar__status "No such tool available" again; no wait or act. Took no action. Last known -945,76,-3022, unarmed, hunger 17, in sight of the group. Holding still.
 - Waking 86: recalled summary, played skill. mcp__geldar__status is "No such tool available"; no wait, look or act in this session. Took no action. Last known -945,76,-3022, unarmed, hunger 17, in sight of the group. Holding still.
 - Waking 88: recalled summary, played skill. mcp__geldar__status is "No such tool available"; no wait or act in session. Took no action. Last known -945,76,-3022, unarmed, hunger 17, in sight of the group. Holding still.
+- Waking 89: recalled summary, played skill. mcp__geldar__status still "No such tool available"; no wait or act. Took no action. Last known -945,76,-3022, unarmed, hunger 17, in sight of the group. Holding still.
