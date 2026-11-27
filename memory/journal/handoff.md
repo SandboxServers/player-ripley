@@ -1,0 +1,1 @@
+Night of 1153. At the white bed x=401 z=-1064, unarmed, no pack. Ate Gimli's melon slice (hunger 19). Health 6.3, steady. Not enclosed. Next: find a weapon and wood, get food, and build a walled shelter with a door and torches. Group plans to go for melons at x=389 z=-1156 at first light.
