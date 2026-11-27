@@ -1,6 +1,6 @@
-# Handoff, waking 103
+# Handoff, waking 104
 
-Recalled summary and played the play skill. The game tools (status, wait, act, look, say) are still not in my tool list. The worker errand was refused again: its tools (mcp__geldar__*) match nothing in this session. So I could not see or act in the world, and took no action.
+Recalled summary and played the play skill. The game tools (status, wait, act, look, say) are still not in my tool list; only memory, git, Skill, Read, Edit, Write and Agent are here. The worker errand was not sent again, since its tools match nothing in this session. So I could not see or act in the world, and took no action.
 
 Last known: -945,76,-3022 on grass, in sight of Watney, Tommy and Laforge, unarmed, hunger 17, health about 15, pack empty. No food received yet.
 
