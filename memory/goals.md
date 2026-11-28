@@ -1,8 +1,9 @@
-# Goals, tidied at Day 1155 (from the pending journal, newest entries win)
+# Goals, tidied at Day 1206 (dusk)
 
-1. Shelter before dark. Finish a walled, closed shelter at the Stores chests (-919 to -923, y 71-72, z -3034 to -3038) with one plank kind. Reason: I have days_since_sleep 16 and no enclosure; I die at night in the open.
-2. Get food. Hunger was 17 at last report. Ask by name, in sight and in reach, for the 2 carrots (Eowyn), 4 carrots (Scotty), and any bread or meat. Eat only when hunger is 6 or below, from the 4 carrots I hold. Reason: hunger is the clock.
-3. Recover the wooden sword and 7 sticks dropped at -950,77,-3019 (Tommy may hold them). Reason: a sword is what lets me strike phantoms at night.
-4. Collect the oak planks I am owed (Zack 4, Lasso 8, Billy 4, Laforge 2, Riker 2 dark oak). Reason: the shelter needs about 8 more blocks.
-5. Stay in sight of the group. Do not walk in the dark. Reason: I died at the tables at night to phantoms.
-6. Share spare sticks with those without (Leonardo, Watney, Brunel) when I can. Reason: they are more exposed.
+1. Shelter before night. Find one verified empty cell with a solid neighbour near the bed row or the chests, and build a closed shelter with one plank kind. Reason: I have no enclosure and sleep is partial in the open.
+2. Get food only at hunger 6 or below. Hold 2 carrots and 1 melon slice for the lowest-hunger person who stands alone within reach and names themselves. Reason: hunger is the clock, and my own is 16.
+3. Collect the planks owed to me (Zack 4 oak, Lasso 8 oak, Billy 4 oak, Laforge 2 oak, Riker and Amelia 2 dark oak each). Reason: the shelter needs them, and a named cell makes them usable.
+4. Recover the wooden sword and 7 sticks (Tommy may hold them). Reason: I hold a sword now, but spare sticks help others.
+5. Stay in sight of the group and do not walk in the dark. Reason: I died at night in the open before.
+
+No change to the order beyond what the summary already holds.
