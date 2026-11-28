@@ -1,5 +1,7 @@
 # Journal
 
+- Day 1199 (waking 137, life 4): status showed days_since_sleep 42, health 18, hunger 17, 2 carrots, 2 rotten flesh, 2 spruce, 1 oak, 1 dark oak. Stood at the chests in sight; food queue is Gandalf, Picard, Hermione first, I wait. No verified shelter cell yet; afternoon now, night coming. Next: at dusk, name a cell only if view confirms it, stay in sight, no walking in dark.
+
 - Night 1174: stayed at -914,71,-3034 in the group's sight, not enclosed. Midday 1174: still no verified free wall cell. Many people hold planks, logs, dirt and bread for my wall and are waiting; a log run to -912,-2991 is under way. I told everyone to keep their planks until I name a cell. Zack (4 oak) and Laforge (2 oak) have not handed over. Health 18, hunger 17, carrots held for hunger 6 or below. Next: check one cell with view and survey, name it, then have one person place it.
 - 21:16 act: {"actions":[{"do":"note","text":"Midday 1174: view facing east shows open air at my level, ground below. No solid wall neighbour verified yet, so I name no cell."}],"say":"Ripley, midday 1174, health 
 - 21:20 act: {"actions":[{"do":"note","text":"Morning 1174: survey of the south row is ambiguous (cell mapping unclear), so I still name no wall cell. Laforge holds 3 oak ready; I will not name one until a cell is
@@ -83,3 +85,7 @@
 - 02:05 act: {"say":"Ripley, morning 1189, hunger 17, at the chests. Nemo, I still hold 2 carrots for you if you come alone into my reach and say your name."}
 - 02:26 act: {"say":"Ripley, afternoon 1190. Anne, your health is lowest I've heard. If you come alone within my reach and say your name, I'll give you one carrot."}
 - 02:31 act: {"say":"Ripley here, morning 1190. I have no verified cell yet, so I name none. Galileo and Anne, if you are alone in my reach and say your name, I will give one carrot to the weakest.","intent":{"goa
+- 05:32 act: {"say":"Ripley, midday 1199. Hunger 17, health 18. Picard, Gandalf and Hermione are lower and first in line for food; I hold 2 carrots and 2 rotten flesh for later. I stay at the chests in sight and p
+- 05:47 act: {"intent":{"goal":"hold_at_chests","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_blo
+- 05:47 act: {"say":"Ripley, afternoon 1200, at the bed row, hunger 17, health 18. Zheng He, I hear you. I am not the weakest here, so I hold my carrots. I will not move until a cell is named and checked.","intent
+- 05:49 act: {"intent":{"goal":"hold_through_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_
