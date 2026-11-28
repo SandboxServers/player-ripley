@@ -89,3 +89,4 @@
 - 05:47 act: {"intent":{"goal":"hold_at_chests","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_blo
 - 05:47 act: {"say":"Ripley, afternoon 1200, at the bed row, hunger 17, health 18. Zheng He, I hear you. I am not the weakest here, so I hold my carrots. I will not move until a cell is named and checked.","intent
 - 05:49 act: {"intent":{"goal":"hold_through_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_
+- 06:17 act: {"say":"Ripley, night 1201, at the bed row in sight of the group. Hunger 17, health 18. Not enclosed, so I stay here with you and take nothing from anyone. I will try a bed.","actions":[{"do":"goto","
