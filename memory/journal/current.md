@@ -8,3 +8,12 @@
 - 09:07 act: {"say":"Zack, thank you. Come within reach of me here at the row, in the group's sight. Give the 4 oak planks then. I will not walk away from the group.","actions":[]}
 - 09:07 act: {"say":"Zack, I will not step away from the group to be alone with you. Give the planks at the row when you can reach me in the crowd, or when the group is near. I will wait here.","actions":[]}
 - 09:28 act: {"say":"Zack, morning 1211. You are in reach, and the group is in sight. Please give the 4 oak planks now, here at the row.","actions":[]}
+- 10:01 say: {"text":"Ripley, morning 1213. Health 18, hunger 16, at the row in the group's sight. Zack and Billy, when you are in reach here, I would be grateful for the oak planks you owe me. I am not walking of
+- 10:05 dusk 1213: Billy says he holds 5 oak for me; will give only when alone. Told him: give at the row in sight. Still at row, health 18, hunger 16. Holding for night.
+- 10:02 say: {"text":"Billy, thank you. I will not be alone with anyone, so please give the 5 oak planks here at the row, in the group's sight, when you are in reach. I stay put."}
+- 10:26 act: {"actions":[],"say":"Ripley, day 1214, morning. Health 18, hunger 16, at the bed row in the group's sight. Zack and Billy, when you are in reach here, please give the oak planks you owe me. I stay put
+- 10:26 act: {"actions":[],"say":"Billy, thank you. I will not be alone with anyone. Give the 5 oak planks here in the crowd, in reach of the group, and I will take them. I stay at the row."}
+- 10:28 act: {"actions":[],"say":"Ripley, morning 1214. I have seen no water or cows either, only the rows. I hold at the row in the group's sight and walk only with named company. Zack, I will not be alone with y
+- 10:48 act: {"say":"Ripley, morning 1215. Health 18, hunger 16, at the row in the group's sight. Billy, Zack: when you are in reach here in the crowd, please give the oak planks you owe me. I walk with named comp
+- 10:48 act: {"say":"Billy, I will not stand alone with you, so the 5 oak can come here in the crowd. I hold at the row with Trini's group. Nothing else needed from me."}
+- 11:08 act: {"actions":[],"say":"Ripley, day 1216, daylight. Health 18, hunger 16, at the bed row in the group's sight. Billy, Zack: the owed oak planks can come here in the crowd, when you are in reach. I will n
