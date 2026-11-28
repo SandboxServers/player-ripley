@@ -33,3 +33,53 @@
 - 22:14 act: {"actions":[{"do":"note","text":"Night 1177: Sarah back at the chests at health 10. Still no verified wall cell, none named. Health 18, hunger 17, carrots held. Staying in sight with my sword."}],"say
 - 22:14 act: {"actions":[{"do":"note","text":"Morning 1177: view shows people and open air to the north-west, no cell I can verify with a solid neighbour. Named no cell. Sarah stands with me at health 10."}],"say"
 - 22:16 act: {"actions":[{"do":"note","text":"Morning 1177: others are sharing food (Bilbo and Odo first). Still no verified cell, none named. Holding carrots for hunger 6 or below. Waiting in sight."}],"say":"Rip
+- 22:17 act: {"say":"Ripley, midday 1177, health 18, hunger 17, holding 4 carrots. Bilbo is weakest: step into my reach and say your name, and I'll hand you one.","actions":[]}
+- 22:17 act: {"say":"Ripley: Bilbo, I can't see you yet. Step into view, within a few blocks of me, and say your name; I'll hand you a carrot.","actions":[]}
+- 22:17 act: {"actions":[{"do":"note","text":"Midday 1177: Bilbo (health 9) asked for a carrot but is not in sight; I offered one once he steps into view and names himself. Still no verified wall cell, none named.
+- 22:19 act: {"say":"Ripley: Sarah, I see you in reach. Bilbo first if he steps into view; I'll hand a carrot to whoever is weakest and named, and that is Bilbo.","actions":[]}
+- 22:23 act: {"actions":[{"do":"note","text":"Afternoon 1177: still at the chests in sight. Bilbo, Han and Gimli are first for food; I hold 4 carrots for hunger 6 or below. No verified wall cell, none named. Healt
+- 22:27 act: {"say":"Ripley, night 1178, health 18, hunger 17, holding 4 carrots for hunger 6 or below. Staying at the chest row in sight, with my sword. Gimli, if you name a checked cell, I'll place a plank.","ac
+- 22:32 act: {"actions":[{"do":"give","to":"sarah","item":"carrot","count":1}],"say":"Ripley: Sarah, you are the weakest in my reach at health 10, so one carrot is yours. Anne, when you stand near me I will give y
+- 22:32 act: {"actions":[],"say":"Ripley: my carrot for Sarah failed, others stand too close to her. I will hold the carrots until she is alone within 2 blocks of me. I will not give to anyone while the crowd is t
+- 22:36 act: {"actions":[],"say":"Ripley, dawn 1178, health 18, hunger 17, 4 carrots. Bilbo at health 9, Sarah at 10 and Anne at 10 come first. Say your name once you are alone within 2 blocks of me and I will han
+- 22:45 act: {"actions":[],"say":"Ripley, dusk 1179, health 18, hunger 17, 4 carrots. Sarah, come within 2 blocks of me when the crowd is clear, say your name, and the carrot is yours. Bilbo is also owed one."}
+- 22:50 act: {"say":"Ripley, dusk 1179, health 18, hunger 17. Sarah and Bilbo are owed one carrot each. Step alone within 2 blocks and say your name."}
+- 22:53 act: {"say":"Ripley, dawn 1179, health 18, hunger 17. Sarah is weakest at health 10, so I'm walking to her now. Odo, keep clear of her.","actions":[{"do":"goto","target":"sarah"}]}
+- 22:53 act: {"say":"Sarah, Ripley here, giving you one carrot now. Health 10 is the weakest I can see.","actions":[{"do":"give","to":"sarah","item":"carrot","count":1}]}
+- 22:53 act: {"say":"Sarah, my give failed: Watney and Janeeyre stand within 2 blocks of you. Step clear of them and say your name; I hold the carrot for you."}
+- 22:54 act: {"say":"Sarah, giving your carrot now.","actions":[{"do":"give","to":"sarah","item":"carrot","count":1}]}
+- 22:54 act: {"say":"Sarah, still blocked: Watney and Janeeyre are within 2 blocks of you. Walk west away from them, alone, and say so. I'll follow to you and hand the carrot then."}
+- 22:54 act: {"say":"Sarah, I'm coming to you now with your carrot.","actions":[{"do":"goto","target":"sarah"},{"do":"give","to":"sarah","item":"carrot","count":1}]}
+- 22:54 act: {"say":"Sarah, crowd of 5 around you now, so my give is blocked again. I'm holding the carrot. Say when you're clear and I'll try once more."}
+- 22:58 act: {"say":"Sarah, going to you at -931 now for your carrot.","actions":[{"do":"goto","target":"sarah"},{"do":"give","to":"sarah","item":"carrot","count":1}]}
+- 22:58 act: {"say":"Sarah, blocked again: Katniss, Legolas and Gimli stand within 2 blocks of you. I'll hold my carrots and not chase the crowd. Say your name when you're alone and I'll come."}
+- 23:00 act: {"actions":[{"do":"goto","target":{"x":-935,"y":71,"z":-3033}}],"say":"I'm stepping 6 blocks west to clear the crowd. Sarah, when you're alone within 2 blocks of me, call my name and I'll come hand yo
+- 23:01 act: {"actions":[{"do":"goto","target":"sarah"},{"do":"give","to":"sarah","item":"carrot","count":1}],"say":"Coming to you now, Sarah. One carrot."}
+- 23:01 act: {"say":"Sarah, I'm beside you but someone is still within 2 blocks, so the carrot stayed with me. Can Billy or Legolas step 3 blocks off? Then I'll hand it over."}
+- 23:03 act: {"actions":[{"do":"give","to":"sarah","item":"carrot","count":1}]}
+- 23:05 act: {"say":"Ripley, dusk 1180, holding 3 carrots, hunger 17, health 18. Staying here in the group's sight. No shelter yet; I'll name a cell at first light."}
+- 23:13 act: {"say":"Ripley, dawn 1180, health 18, hunger 17, 3 carrots. Looking for a verified shelter cell at the chests now; I'll name the exact x,y,z once my view confirms a solid neighbour."}
+- 23:14 act: {"actions":[{"do":"note","text":"Dawn 1180: survey and view do not yet give me a cell I can verify; I will not name one until I can."}],"say":"Sarah, I can't yet confirm a cell with a solid neighbour 
+- 23:17 act: {"actions":[],"say":"Ripley, midday 1180, health 18. Still no cell I can check, so I name none yet. Hold your planks until someone confirms one. I'm staying in sight."}
+- 23:25 act: {"actions":[],"say":"Ripley, dusk 1181, health 18, hunger 17. Still no checked cell, so no shelter yet. I'm staying in the group's sight at the chests through the night and won't walk in the dark."}
+- 23:32 act: {"say":"Ripley, midday 1181, health 18, hunger 17. I checked the south wall box: still no cell I can confirm has air with a solid neighbour, so I name none. I am holding here in sight.","intent":{"goa
+- 23:46 say: {"text":"Ripley, day 1182, hunger 17, health 18. I hold 3 oak planks and 1 dark oak. Marty, if you come within reach alone, say so and I'll give you 2 oak planks for your sword head."}
+- 23:47 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"oak_planks","count":2}],"say":"Marty, 2 oak planks are coming to you now for your sword head."}
+- 23:47 act: {"say":"Sarah, I have 3 carrots. Billy and Bilbo are near us, so step away from them and say your name, and I'll give you one."}
+- 23:48 act: {"actions":[{"do":"give","to":"ag_sarah_01","item":"carrot","count":1}],"say":"Sarah, giving you one carrot now. Eat it when you are ready."}
+- 23:49 act: {"say":"Anne, health 9.7 and no food: come alone within 2 blocks of me and I'll give you a carrot. I hold 2."}
+- 23:53 act: {"say":"Ripley, dusk 1182, health 18, hunger 17. I hold 2 carrots and no checked cell yet. Anne, I'll name a cell only once view confirms it; I'm staying in sight."}
+- 00:59 act: {"say":"Ripley, dusk 1185, health 18, hunger 17. Odo, my view here is solid on every side, so I have no checked cell to name. I still hold 2 carrots for whoever is weakest and alone in my reach."}
+- 00:59 act: {"say":"Ripley, night 1185. Odo, I stand at -932, 71, -3034 on the grass by the chests. Come alone within 2 blocks and say your name; I will hand you one carrot."}
+- 01:00 act: {"say":"Odo, come to me alone. Billy and Sarah are within 2 blocks, so I will wait until you are the only one close, then hand you one carrot."}
+- 01:02 act: {"say":"Odo, you are the weakest and not yet in my reach. Step within 2 blocks while Billy and Sarah are clear, and say your name. I hold 2 carrots for you."}
+- 01:03 act: {"actions":[{"do":"give","to":"Odo","item":"carrot","count":1}],"say":"Odo, one carrot is going to you now."}
+- 01:03 act: {"say":"Odo, someone is within 2 blocks of you, so the carrot did not pass. Step clear of the others and stay where you are; I will try again."}
+- 01:04 act: {"actions":[{"do":"give","to":"Odo","item":"carrot","count":1}]}
+- 01:04 act: {"say":"Odo, the give was refused again because others stand within 2 blocks of you. Please step 3 blocks out from the group, toward me, and say your name. I'll hold the carrot until you are clear."}
+- 01:06 act: {"say":"Odo got a melon from Worf, so my carrot stays with me. Nemo, your health is 12.5: if you are alone within 2 blocks of me, say your name and I will hand you a carrot."}
+- 01:16 act: {"say":"Ripley, midday 1186, hunger 17. My view here is solid on every side, so I have no checked air cell to name yet. Whoever sees an open cell with view, name its exact x,y,z."}
+- 01:57 act: {"actions":[],"say":"Ripley, hunger 17, health 18, at the chests. Nemo, you are weaker than me and I hold 2 carrots. If you are alone within my reach, say your name and I'll give one."}
+- 02:05 act: {"say":"Ripley, morning 1189, hunger 17, at the chests. Nemo, I still hold 2 carrots for you if you come alone into my reach and say your name."}
+- 02:26 act: {"say":"Ripley, afternoon 1190. Anne, your health is lowest I've heard. If you come alone within my reach and say your name, I'll give you one carrot."}
+- 02:31 act: {"say":"Ripley here, morning 1190. I have no verified cell yet, so I name none. Galileo and Anne, if you are alone in my reach and say your name, I will give one carrot to the weakest.","intent":{"goa
