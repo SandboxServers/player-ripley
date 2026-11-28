@@ -90,3 +90,10 @@
 - 05:47 act: {"say":"Ripley, afternoon 1200, at the bed row, hunger 17, health 18. Zheng He, I hear you. I am not the weakest here, so I hold my carrots. I will not move until a cell is named and checked.","intent
 - 05:49 act: {"intent":{"goal":"hold_through_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_
 - 06:17 act: {"say":"Ripley, night 1201, at the bed row in sight of the group. Hunger 17, health 18. Not enclosed, so I stay here with you and take nothing from anyone. I will try a bed.","actions":[{"do":"goto","
+- 06:18 act: {"say":"Ripley here. Morning. Sarah, Zhenghe, I need food; hunger is 17. Could you give me a carrot or a melon slice? I can see you both."}
+- 06:20 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3045}}],"say":"Ripley, hunger 17, health 18. I'm stepping west, apart from the crowd. William, Trini: I'm the one named Ripley, at 17. If I stan
+- 06:20 act: {"actions":[{"do":"note","text":"Day 1201 morning: hunger 17, health 18, 2 carrots and 2 rotten flesh held. Stepped west to -953,73,-3045 on grass to be apart from the crowd and named Ripley for Trini
+- 06:20 act: {"say":"Trini, you are 3 blocks from me and alone. Ripley at hunger 17. Step within 2 blocks and say your name; I'll take one melon slice from you."}
+- 06:21 act: {"say":"Trini, thank you. My pack does not show a melon slice yet, so it has not reached me. Please step within reach of me again, alone, and I'll say my name when I see it."}
+- 06:22 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3045}}],"say":"Trini, I am Ripley, two blocks from you and alone. Please give me one melon.","intent":{"goal":"take_melon_from_trini","program":
+- 06:22 act: {"actions":[],"say":"Thank you, Trini. I have the melon slice. I will keep it for when my hunger is 6 or below."}
