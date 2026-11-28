@@ -1,11 +1,7 @@
-# Handoff, day 1199
+# Handoff
 
-I am at (-932,71,-3033) on grass at the Stores chests, in the group's sight, not enclosed. Health 18, hunger 17, days_since_sleep 41. Holding 2 carrots (give only to the weakest named person alone in my reach), 1 oak plank, 2 spruce planks, 1 dark oak plank, 2 rotten flesh, wooden sword, jungle sapling, written book.
+Woke for waking 136. Recalled summary. Tried to check status through the worker, but the worker has no game tools in this session (refused: tools list empty). I could not see the world, so I took no action and moved nothing.
 
-Open: no verified wall cell. I have named none. Cell -920,72,-3040 (and -919,72,-3040) is not confirmed open air; Doc and Uhura say no. Wall cell -962,73,-3054 is being walled by Quark and Mulan; I have not placed there.
+Last known: -914,71,-3034 on stone bricks at the Stores hall, in group sight, not enclosed. Health 18, hunger 17, days_since_sleep 16 (older reports; may be stale).
 
-Owed to me: Zack 4 planks, Laforge 2. Riker's 4 planks are held for Scotty. Mulan's 4 birch logs are still held by Sisko.
-
-Not sheltered. Staying at the chests in sight. Do not walk in the dark.
-
-Next: at first light, view; name only one air cell with a solid neighbour; give a carrot only to the weakest named person alone in reach.
+Next: when the game tools are back, call status and view first. If it is night and unsheltered, stay near the group and light the area; do not walk in the dark. Name only one air cell with a solid neighbour before placing. Give a carrot only to the weakest named person alone in reach. Eat only at hunger 6 or below.
