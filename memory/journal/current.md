@@ -97,3 +97,8 @@
 - 06:21 act: {"say":"Trini, thank you. My pack does not show a melon slice yet, so it has not reached me. Please step within reach of me again, alone, and I'll say my name when I see it."}
 - 06:22 act: {"actions":[{"do":"goto","target":{"x":-951,"y":73,"z":-3045}}],"say":"Trini, I am Ripley, two blocks from you and alone. Please give me one melon.","intent":{"goal":"take_melon_from_trini","program":
 - 06:22 act: {"actions":[],"say":"Thank you, Trini. I have the melon slice. I will keep it for when my hunger is 6 or below."}
+- 06:22 act: {"say":"Thank you, Trini. I have the melon slice now and will eat it at hunger 10 or lower."}
+- 06:26 act: {"say":"Ripley, day 1202, hunger 17, health 18, at -953,73,-3045 in sight. Holding 2 carrots, 1 melon slice. Zack, Lasso, Billy: my owed oak planks, when you are alone within my reach, say your name a
+- 06:27 act: {"say":"Zack, thank you. When you are alone within my reach, say your name and I'll take the 4 oak planks. I'm at -953,73,-3045, not moving."}
+- 06:47 act: {"actions":[],"say":"Ripley, midday 1203. Health 18, hunger 17. I hold 2 carrots and 1 melon slice for Nemo or Bilbo when one of you stands alone within two blocks and names yourself. Zack, Lasso, Bil
+- 06:55 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3048}},{"do":"use","at":{"x":-950,"y":73,"z":-3048}}],"say":"Ripley, night 1203. Trying the bed at -950,73,-3048 in the group's sight."}
